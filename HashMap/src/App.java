@@ -6,6 +6,7 @@ public class App {
 	public static void main(String[] args) {
 
 		HashMap<Integer,String> map = new HashMap<Integer,String>();
+		//other maps are linkedmaps and treemaps
 		//Adding values
 		map.put(1, "one");
 		map.put(2, "two");
